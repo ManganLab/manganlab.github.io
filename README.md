@@ -6,14 +6,14 @@ We take insects (ants, bees, fruit-flies) as our model species as they display a
 
 By revealing the secrets of complex behaviour in insects, we hope to enhance our understanding of natural systems and allow development of similarly capable artificial systems.
 
-### Current Team Members
+### Current Group Members
  [Dr Mike Mangan (PI)](https://michaelmangan.github.io/)
 
-Zeke Hobbs (PhD Candidate)
+Zeke Hobbs (PhD Candidate) \s\s
 Blayze Millward (PhD Candidate)
 
-Elias Lattish (PhD Candidate - 2nd supervisor)
-Raymond Kirk (PhD Candidate - 2nd supervisor)
-Xuelong Sun (PhD Candidate - 2nd supervisor)
+Elias Lattish (PhD Candidate - 2nd supervisor) \s\s
+Raymond Kirk (PhD Candidate - 2nd supervisor) \s\s
+Xuelong Sun (PhD Candidate - 2nd supervisor) \s\s
 
 ### Research Projects
