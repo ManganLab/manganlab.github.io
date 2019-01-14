@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/ManganLab/manganlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our research group seeks to understand how complex behaviour arises from relatively simple nervous systems using a bio-robotic methodology.   That is we strive to embed hypothesis into computational and robot models and compare the resultant behaviour to that of animals in the same settings.  The process of instantiating conceptual hypothesis in a real-world system aims to avoid over-simplifying problems through unrealistic assumptions, or being misled by over-fitting to hand-crafted  simulated environments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We take insects (ants, bees, fruit-flies) as our model species as they display a wide range of complex behaviours (foraging, communication, visual navigation, nest building, learning) that vastly exceed the capabilities of current robots, but using a nervous system that is sufficiently simple that we hope to understand it's function.  Much of our research is focussed on behaviours that can be abstracted to robot applications (e.g. GPS-free visual navigation), or can be used in industrial settings (pesticide free pest control).  
 
-### Markdown
+By revealing the secrets of complex behaviour in insects, we hope to enhance our understanding of natural systems and allow development of similarly capable artificial systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Current Team Members
+ [Dr Mike Mangan (PI)](https://michaelmangan.github.io/)
 
-```markdown
-Syntax highlighted code block
+Zeke Hobbs (PhD Candidate)
+Blayze Millward (PhD Candidate)
 
-# Header 1
-## Header 2
-### Header 3
+Elias Lattish (PhD Candidate - 2nd supervisor)
+Raymond Kirk (PhD Candidate - 2nd supervisor)
+Xuelong Sun (PhD Candidate - 2nd supervisor)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManganLab/manganlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Research Projects
