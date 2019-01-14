@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+logo: LabLogo2_B.png
+title: ManganLab
+description: Insect Biorobotics Research Group led by Dr Mike Mangan
+show_downloads: true
+google_analytics:
