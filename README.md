@@ -1,4 +1,4 @@
-## Overview
+## Research Overview
 
 Our research group seeks to understand how complex behaviour arises from relatively simple nervous systems using a bio-robotic methodology.   That is we strive to embed hypothesis into computational and robot models and compare the resultant behaviour to that of animals in the same settings.  The process of instantiating conceptual hypothesis in a real-world system aims to avoid over-simplifying problems through unrealistic assumptions, or being misled by over-fitting to hand-crafted  simulated environments.
 
