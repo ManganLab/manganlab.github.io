@@ -13,7 +13,7 @@ Zeke Hobbs (PhD Candidate)
 Blayze Millward (PhD Candidate)
 
 Elias Lattish (PhD Candidate - 2nd supervisor)     
-Raymond Kirk (PhD Candidate - 2nd supervisor)   
+[Raymond Kirk](https://github.com/RaymondKirk)  (PhD Candidate - 2nd supervisor)    
 Xuelong Sun (PhD Candidate - 2nd supervisor)  
 
 ### Research Projects
