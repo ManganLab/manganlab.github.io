@@ -10,7 +10,7 @@ By revealing the secrets of complex behaviour in insects, we hope to enhance our
  [Dr Mike Mangan (PI)](https://michaelmangan.github.io/)
 
 Zeke Hobbs (PhD Candidate)  
-Blayze Millward (PhD Candidate)
+[Blayze Millward (PhD Candidate)](http://blayze.github.io/)
 
 Elias Lattish (PhD Candidate - 2nd supervisor)     
 [Raymond Kirk](https://github.com/RaymondKirk)  (PhD Candidate - 2nd supervisor)    
