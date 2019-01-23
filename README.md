@@ -9,8 +9,8 @@ By revealing the secrets of complex behaviour in insects, we hope to enhance our
 ### Current Group Members
  [Dr Mike Mangan (PI)](https://michaelmangan.github.io/)
 
-[Zeke Hobbs](https://zshobbs.github.io/) (PhD Candidate)
-[Blayze Millward](https://blayzeing.github.io/blayze.github.io/) (PhD Candidate)
+[Zeke Hobbs](https://zshobbs.github.io/) (PhD Candidate)  
+[Blayze Millward](https://blayzeing.github.io/blayze.github.io/) (PhD Candidate)  
 
 Elias Lattish (PhD Candidate - 2nd supervisor)     
 [Raymond Kirk](https://github.com/RaymondKirk)  (PhD Candidate - 2nd supervisor)    
