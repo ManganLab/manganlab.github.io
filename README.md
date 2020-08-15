@@ -24,11 +24,11 @@ Xuelong Sun (PhD Candidate - 2nd supervisor)
 
 2020
 ---
-- Raymond Kirk, Grzegorz Cielniak, and Michael Mangan. 2020. "**L* a* b* Fruits: A Rapid and Robust Outdoor Fruit Detection System Combining Bio-Inspired Features with One-Stage Deep Learning Networks**". Sensors [:page_with_curl:](https://www.mdpi.com/1424-8220/20/1/275)
-- Lars Haalck, Michael Mangan, Barbara Webb, and Benjamin Risse. 2020. "**Towards image-based animal tracking in natural environments using a freely moving camera**".  [:page_with_curl:](https://www.sciencedirect.com/science/article/pii/S0165027019303127)
-- Cornelia Buehlmann, Michael Mangan, and Paul Graham. 2020. "**Multimodal interactions in insect navigation**".  [:page_with_curl:](https://link.springer.com/content/pdf/10.1007/s10071-020-01383-2.pdf)
 - Xuelong Sun, Shigang Yue, and Michael Mangan. 2020. "**A Decentralised Neural Model Explaining Optimal Integration of Navigational Strategies in Insects**". bioRxiv [:page_with_curl:](https://www.biorxiv.org/content/10.1101/856153v3.full-text)
 - Blayze Millward, Steve Maddock, and Michael Mangan. 2020. "**Towards insect inspired visual sensors for robots**".  [:page_with_curl:](http://eprints.whiterose.ac.uk/160806/)
+- Raymond Kirk, Grzegorz Cielniak, and Michael Mangan. 2020. "**L\* a\* b\* Fruits: A Rapid and Robust Outdoor Fruit Detection System Combining Bio-Inspired Features with One-Stage Deep Learning Networks**". Sensors [:page_with_curl:](https://www.mdpi.com/1424-8220/20/1/275)
+- Lars Haalck, Michael Mangan, Barbara Webb, and Benjamin Risse. 2020. "**Towards image-based animal tracking in natural environments using a freely moving camera**".  [:page_with_curl:](https://www.sciencedirect.com/science/article/pii/S0165027019303127)
+- Cornelia Buehlmann, Michael Mangan, and Paul Graham. 2020. "**Multimodal interactions in insect navigation**".  [:page_with_curl:](https://link.springer.com/content/pdf/10.1007/s10071-020-01383-2.pdf)
 - Sebastian Schwarz, Michael Mangan, Barbara Webb, and Antoine Wystrach. 2020. "**Route-following ants respond to alterations of the view sequence**". Journal of Experimental Biology [:page_with_curl:](https://jeb.biologists.org/content/early/2020/05/29/jeb.218701.abstract)
 
 2019
