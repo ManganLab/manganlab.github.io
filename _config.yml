@@ -4,3 +4,5 @@ title: ManganLab
 description: Home of the Insect Biorobotics Research Group led by Dr Mike Mangan
 show_downloads: true
 google_analytics:
+plugins:
+  - jemoji
