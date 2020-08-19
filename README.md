@@ -26,6 +26,7 @@ Xuelong Sun (PhD Candidate - 2nd supervisor)
 ---
 - Xuelong Sun, Shigang Yue, and Michael Mangan. 2020. "**A Decentralised Neural Model Explaining Optimal Integration of Navigational Strategies in Insects**". bioRxiv [:page_with_curl:](https://www.biorxiv.org/content/10.1101/856153v3.full-text)
 - Blayze Millward, Steve Maddock, and Michael Mangan. 2020. "**Towards insect inspired visual sensors for robots**".  [:page_with_curl:](http://eprints.whiterose.ac.uk/160806/)
+- Zeke Hobbs, Tom Duckett, Simon Pearson, and Michael Mangan. 2016. "**Towards bio-inspired fruit detection for agriculture**". networks [:page_with_curl:](https://www.ukras.org/wp-content/uploads/formidable/21/UKRAS20_paper_50.pdf)
 - Raymond Kirk, Grzegorz Cielniak, and Michael Mangan. 2020. "**L\* a\* b\* Fruits: A Rapid and Robust Outdoor Fruit Detection System Combining Bio-Inspired Features with One-Stage Deep Learning Networks**". Sensors [:page_with_curl:](https://www.mdpi.com/1424-8220/20/1/275)
 - Lars Haalck, Michael Mangan, Barbara Webb, and Benjamin Risse. 2020. "**Towards image-based animal tracking in natural environments using a freely moving camera**".  [:page_with_curl:](https://www.sciencedirect.com/science/article/pii/S0165027019303127)
 - Cornelia Buehlmann, Michael Mangan, and Paul Graham. 2020. "**Multimodal interactions in insect navigation**".  [:page_with_curl:](https://link.springer.com/content/pdf/10.1007/s10071-020-01383-2.pdf)
@@ -59,7 +60,6 @@ Xuelong Sun (PhD Candidate - 2nd supervisor)
 - Paul Ardin, Fei Peng, Michael Mangan, Konstantinos Lagogiannis, and Barbara Webb. 2016. "**Using an insect mushroom body circuit to encode route memory in complex natural environments**". PLoS computational biology [:page_with_curl:](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004683)
 - Paul B Ardin, Michael Mangan, and Barbara Webb. 2016. "**Ant homing ability is not diminished when traveling backwards**". Frontiers in behavioral neuroscience [:page_with_curl:](https://www.frontiersin.org/articles/10.3389/fnbeh.2016.00069/full)
 - Jon Peddie, Kurt Akeley, Paul Debevec, Erik Fonseka, Michael Mangan, and Michael Raphael. 2016. "**A vision for computer vision: emerging technologies**".  [:page_with_curl:](https://dl.acm.org/doi/abs/10.1145/2927383.2933233)
-- Zeke Hobbs, Tom Duckett, Simon Pearson, and Michael Mangan. 2016. "**Towards bio-inspired fruit detection for agriculture**". networks [:page_with_curl:](https://www.ukras.org/wp-content/uploads/formidable/21/UKRAS20_paper_50.pdf)
 - Nathan F Lepora, Anna Mura, Michael Mangan, Paul FMJ Verschure, Marc Desmulliez, and Tony J Prescott. 2016. "**Biomimetic and Biohybrid Systems: 5th International Conference, Living Machines 2016, Edinburgh, UK, July 19-22, 2016. Proceedings**".  [:page_with_curl:](http://books.google.com/books?hl=en&lr=&id=hSSpDAAAQBAJ&oi=fnd&pg=PR5&dq=info:N8OwCi8CDCgJ:scholar.google.com&ots=w1irgycCck&sig=yGeIxF9ziaqJOoh1oPCtnRY2HV8)
 
 2015
